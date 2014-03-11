@@ -1,0 +1,9 @@
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\obj\Debug\SpecFlowOpenSpace.Test.csprojResolveAssemblyReference.cache
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\bin\Debug\SpecFlowOpenSpace.Test.dll.config
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\bin\Debug\SpecFlowOpenSpace.Test.dll
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\bin\Debug\SpecFlowOpenSpace.Test.pdb
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\bin\Debug\SpecFlowOpenSpace.dll
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\bin\Debug\TechTalk.SpecFlow.dll
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\bin\Debug\SpecFlowOpenSpace.pdb
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\obj\Debug\SpecFlowOpenSpace.Test.dll
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace.Test\obj\Debug\SpecFlowOpenSpace.Test.pdb

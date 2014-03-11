@@ -1,0 +1,5 @@
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace\bin\Debug\SpecFlowOpenSpace.dll
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace\bin\Debug\SpecFlowOpenSpace.pdb
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace\obj\Debug\SpecFlowOpenSpace.csprojResolveAssemblyReference.cache
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace\obj\Debug\SpecFlowOpenSpace.dll
+D:\work\nsc\SpecFlowOpenSpace\SpecFlowOpenSpace\obj\Debug\SpecFlowOpenSpace.pdb
